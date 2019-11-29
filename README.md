@@ -1,1 +1,1 @@
-# spam-tld
+# Spam Abused TLDs
